@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">dungdenhoxe</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyB84ahztX8JEjaM0M04I54pTbyTYq9rbWU</string>
+</resources>
